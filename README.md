@@ -68,8 +68,9 @@ successfully.
 ## Working with S3 Using Cyberduck
 
 While the CLI tool is handy for automating many of the steps needed for
-uploading images, it can also be useful to get full access to the S3 bucket to
-move/delete files or upload images manually.
+uploading images, it can also be useful to get full access to 
+`curriculum-content`, the S3 bucket the Curriculum Team uses, to move or delete
+files or upload images manually.
 
 For this, we use [Cyberduck][cyberduck].
 
